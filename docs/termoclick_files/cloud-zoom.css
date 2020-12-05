@@ -1,0 +1,60 @@
+
+/* This is the moving lens square underneath the mouse pointer. */
+.cloud-zoom-lens {
+	border: 4px solid #888;
+	margin:-4px;	/* Set this to minus the border thickness. */
+	background-color:#fff;	
+	cursor:move;		
+}
+
+/* This is for the title text. */
+.cloud-zoom-title {
+	font-family:Arial, Helvetica, sans-serif;
+	position:absolute !important;
+	background-color:#000;
+	color:#fff;
+	padding:3px;
+	width:100%;
+	text-align:center;	
+	font-weight:bold;
+	font-size:10px;
+	top:0px;
+}
+
+/* This is the zoom window. */
+.cloud-zoom-big {
+	border:4px solid #ccc;
+	overflow:hidden;
+}
+
+/* This is the loading message. */
+.cloud-zoom-loading {
+	color:white;	
+	background:#222;
+	padding:3px;
+	border:1px solid #000;
+}
+
+
+
+/*
+     FILE ARCHIVED ON 12:51:45 Apr 17, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:51:10 Dec 05, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 251.07
+  esindex: 0.03
+  PetaboxLoader3.resolve: 73.145 (2)
+  LoadShardBlock: 207.577 (3)
+  exclusion.robots.policy: 0.487
+  load_resource: 103.383
+  RedisCDXSource: 3.353
+  PetaboxLoader3.datanode: 166.83 (4)
+  exclusion.robots: 0.525
+  CDXLines.iter: 32.378 (3)
+*/
